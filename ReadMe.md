@@ -53,7 +53,7 @@ Thanks to Thomas Kipf. The code is written based on the "Graph Convolutional Net
 
 Bug Report
 ------------
-If you find a bug, please send a bug report to mghorbani@ce.sharif.edu including if necessary the input file and the parameters that caused the bug.
+If you find a bug, please send a bug report to mahsa.ghorbani[at]sharif.edu including if necessary the input file and the parameters that caused the bug.
 You can also send me any comment or suggestion about the program.
 
 References
