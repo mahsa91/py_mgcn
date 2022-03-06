@@ -67,10 +67,20 @@ Cite
 Please cite our paper if you use this code in your own work:
 
 ```
-@article{ghorbani2018multi,
-  title={Multi-layered Graph Embedding with Graph Convolution Networks},
-  author={Ghorbani, Mahsa and Baghshah, Mahdieh Soleymani and Rabiee, Hamid R},
-  journal={arXiv preprint arXiv:1811.08800},
-  year={2018}
+@inproceedings{ghorbanimgcn,
+author = {Ghorbani, Mahsa and Baghshah, Mahdieh Soleymani and Rabiee, Hamid R.},
+title = {MGCN: Semi-Supervised Classification in Multi-Layer Graphs with Graph Convolutional Networks},
+year = {2019},
+isbn = {9781450368681},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3341161.3342942},
+doi = {10.1145/3341161.3342942},
+booktitle = {Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining},
+pages = {208–211},
+numpages = {4},
+keywords = {graph convolutional networks, graph embedding, multi-layer graphs, node classification},
+location = {Vancouver, British Columbia, Canada},
+series = {ASONAM '19}
 }
 ```
